@@ -10,8 +10,8 @@ This is what I produced during the 42 "Piscine" entry contest. During 4 weeks no
 
 _Piscine from September 9th to October 4th of 2024._
 
-Rush00 by ael-ghaz, ematon, vsaraiva and me
-Rush01 by lcollong, made and me
-Rush02 by thmichel, yipan and me
-BSQ by mdemare and me
-Every other projects by me
+- Rush00 by ael-ghaz, ematon, vsaraiva and me
+- Rush01 by lcollong, made and me
+- Rush02 by thmichel, yipan and me
+- BSQ by mdemare and me
+- Every other projects by me
